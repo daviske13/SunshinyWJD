@@ -1,0 +1,19 @@
+{
+  "name": "my-team",
+  "version": "1.0.0",
+  "description": "challenge 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daviske13/SunshinyWJD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviske13/SunshinyWJD/issues"
+  },
+  "homepage": "https://github.com/daviske13/SunshinyWJD#readme"
+}
